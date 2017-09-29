@@ -2,8 +2,6 @@
 
 This is the first file in this repo.
 
-## Ipsum Below
+## Website Contents
 
-Lorem Ipsum costam pierdoly proba gita
-
-costam costam kolejne pierdoly
+1. index.html
